@@ -1,0 +1,25 @@
+{
+  "name": "xstate-model-type-error",
+  "version": "1.0.0",
+  "description": "A reproduction of the type error when adding another event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joneshf/xstate-model-type-error.git"
+  },
+  "author": "Hardy Jones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joneshf/xstate-model-type-error/issues"
+  },
+  "homepage": "https://github.com/joneshf/xstate-model-type-error#readme",
+  "dependencies": {
+    "xstate": "4.20.0"
+  },
+  "devDependencies": {
+    "typescript": "4.3.2"
+  }
+}
